@@ -1,0 +1,6 @@
+com\aloha\spring\aop\LoggingAspect.class
+com\aloha\spring\service\BoardService.class
+com\aloha\spring\dao\BoardDAO.class
+com\aloha\spring\service\BoardServiceImpl.class
+com\aloha\spring\dto\Board.class
+com\aloha\spring\HomeController.class
